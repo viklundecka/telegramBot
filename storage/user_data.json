@@ -1,0 +1,18 @@
+{
+  "users": {
+    "973485495": {
+      "username": "Alexkplnkv",
+      "first_seen": "2025-06-08 16:23:21.962844",
+      "last_activity": "2025-06-08 17:16:10.139597",
+      "request_count": 61
+    }
+  },
+  "favorites": {
+    "973485495": []
+  },
+  "statistics": {
+    "total_users": 1,
+    "total_requests": 61
+  },
+  "banned_users": {}
+}
